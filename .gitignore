@@ -4,6 +4,7 @@ env/
 .env/
 .venv/
 ENV/
+python_learning/
 
 # Python 字节码文件
 __pycache__/
